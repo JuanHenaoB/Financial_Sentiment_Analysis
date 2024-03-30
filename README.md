@@ -7,4 +7,4 @@ This project addresses the task of Sentiment Analysis in a Financial News Datase
 ### LSTM approach
 
 ## Working Pipeline
-![Working Pipeline Block diagram](Financial_Sentiment_Analysis/Resources/training_pipeline-Page-1.png "Pipeline Block Diagram")
+![Working Pipeline Block diagram](Resources/training_pipeline-Page-1.jpg "Pipeline Block Diagram")
