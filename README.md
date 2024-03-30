@@ -8,3 +8,6 @@ This project addresses the task of Sentiment Analysis in a Financial News Datase
 
 ## Working Pipeline
 ![Working Pipeline Block diagram](Resources/training_pipeline-Page-1.jpg "Pipeline Block Diagram")
+
+## distilBERT approach
+The distilBERT approach is executing fine tunning to the distilBERT model fetched from huggingface. This approach showed a higher performance achieving 97% accuracy and 97% f1-score.
